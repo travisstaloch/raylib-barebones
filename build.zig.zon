@@ -1,6 +1,7 @@
 .{
-    .name = "raylib-demo",
+    .name = .raylib_demo,
     .version = "0.0.0",
+    .fingerprint = 0x3eff0a2b2cdf0dc1,
     .dependencies = .{
             .raylib = .{
             .url = "https://github.com/raysan5/raylib/releases/download/5.0/raylib-5.0_linux_amd64.tar.gz",
